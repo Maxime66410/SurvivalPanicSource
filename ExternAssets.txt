@@ -21,6 +21,7 @@ DECALS :
 Advanced Glass Material Pack - PAID & NOT IMPLEMENTED
 Animated Blood Decals - Realistic - PAID & NOT IMPLEMENTED
 200+ Grunge Decals - PAID & IMPLEMENTED
+Unreal Engine Normal Damage Decals - PAID & NOT IMPLEMENTED
 
 LIGHT : 
 IES Light Profile Pack - PAID & IMPLEMENTED
